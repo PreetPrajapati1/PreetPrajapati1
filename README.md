@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PreetPrajapati1&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PreetPrajapati1&show_icons=true&count_private=true&include_all_commits=true)
 <!--
 **PreetPrajapati1/PreetPrajapati1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
