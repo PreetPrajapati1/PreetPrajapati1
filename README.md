@@ -34,13 +34,13 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PreetPrajapati1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PreetPrajapati1&show_icons=true&theme=github_dark)
+
 
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=PreetPrajapati1&theme=tokyonight)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=PreetPrajapati1&theme=github-dark-blue)
 ## 🌟 Fun Fact
 
 I love building full-stack applications and solving real-world problems 🚀
