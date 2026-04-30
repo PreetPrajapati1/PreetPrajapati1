@@ -11,7 +11,7 @@
 * 🔭 Currently working on: Event Booking System
 * 🌱 Learning: Spring Boot & Backend Development
 * 💬 Ask me about: Java, MySQL, Web Development
-* 📫 Reach me: (add LinkedIn/email)
+* 📫 Reach me: www.linkedin.com/in/preet-prajapati-427b782a3
 
 ---
 
