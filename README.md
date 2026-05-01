@@ -13,7 +13,6 @@
 * 💬 Ask me about: Java, MySQL, Web Development
 * 📫 Reach me: www.linkedin.com/in/preet-prajapati-427b782a3
 
----
 
 ## 🛠 Tech Stack
 <p align="left">
