@@ -37,8 +37,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PreetPrajapati1&show_icons=true&theme=github_dark)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PreetPrajapati1&theme=tokyo-night)
 
 
 ## 🔥 Streak Stats
