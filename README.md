@@ -1,7 +1,7 @@
 # Hello there, I'm Preet 👋
 
 🎓 MCA Student
-💻 Java Developer | Spring Boot | Hibernate
+💻 Java Developer | Spring Boot | Hibernate | Javascript 
 🚀 Passionate about building real-world applications
 
 ---
