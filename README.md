@@ -2,6 +2,7 @@
 
 🎓 MCA Student
 💻 Java Developer | Spring Boot | Hibernate | Javascript 
+
 🚀 Passionate about building real-world applications
 
 ---
